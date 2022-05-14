@@ -137,7 +137,7 @@
 
 
  .App {
-   /* background: url("/src/img/kitchen.jpeg") no-repeat center; */
+   background: url("/src/img/kitchen.jpeg") no-repeat center;
    display: flex;
    align-items: center;
    flex-direction: column;
