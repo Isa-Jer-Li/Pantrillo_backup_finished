@@ -61,6 +61,10 @@ function Welcome () {
 				<h6> Pierce Lawson </h6>
 			<div className = "para">
 </div>
+	<div className = "para">
+		<br />
+		<p> Pierce is one of the founding fathers of Pantrillo, and has focused on frontend, and graphic design as well as organizing the game plan for the team on Figma and Miro. </p>
+	</div>
 		<Footer />
 
 	</div>
