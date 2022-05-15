@@ -47,6 +47,11 @@ function Welcome () {
 			<p> Isabelle has been apart of our team from the beginning. Their job at Pantrillo included frontend development, with a focus on aesthetics and UI.  </p>
 				</div>
 			</div>
+			<div className = "name">
+			<a href = "https://github.com/krshinn"> <img className = "karl" src = {karl} /> </a>
+				<h6> Karl Shinn </h6>
+			<div className = "para">
+				<br />
 		</div>
 
 		<Footer />
