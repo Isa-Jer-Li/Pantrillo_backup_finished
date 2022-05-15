@@ -53,7 +53,14 @@ function Welcome () {
 			<div className = "para">
 				<br />
 		</div>
-
+		<p> Pantrillo was happy to welcome Karl on right after before production began. He became an integral part of the team immediatly. Karl focused on backend and helped with design and brainstorming. </p>
+			</div>
+		</div>
+		<div className = "name">
+			<a href = "https://github.com/piercelawson"> <img className = "pierce" src = {pierce} /> </a>
+				<h6> Pierce Lawson </h6>
+			<div className = "para">
+</div>
 		<Footer />
 
 	</div>
