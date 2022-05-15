@@ -2,6 +2,10 @@ import Navbar from '../pages/index.js';
 import FoodJoke from '../components/FoodJoke';
 import Footer from '../components/Footer/Footer.jsx';
 import Sidebar from '../components/Sidebar'
+import isabelle from '../img/isabelle.png'
+import karl from '../img/karl.jpeg'
+import pierce from '../img/pierce.jpeg'
+
 {/* youll return html, run JS above */}
 
 function Welcome () {
