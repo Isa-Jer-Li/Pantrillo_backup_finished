@@ -44,8 +44,9 @@ function Welcome () {
 			<div className = "para">
 
 				<br />
-			<h3> Karl </h3>
-
+			<p> Isabelle has been apart of our team from the beginning. Their job at Pantrillo included frontend development, with a focus on aesthetics and UI.  </p>
+				</div>
+			</div>
 		</div>
 
 		<Footer />
