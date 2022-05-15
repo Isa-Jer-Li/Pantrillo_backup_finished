@@ -40,9 +40,10 @@ function Welcome () {
 <div id="biggercont">
 		<div className = "name">
 			<a href = "https://github.com/Isa-Jer-Li"> <img className = "isabelle" src = {isabelle} /> </a>
+<h6> Isabelle Link </h6>
+			<div className = "para">
 
-			<h3> Isabelle </h3>
-
+				<br />
 			<h3> Karl </h3>
 
 		</div>
