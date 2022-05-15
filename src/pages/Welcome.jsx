@@ -37,8 +37,9 @@ function Welcome () {
 
 
 		<div id = "bio">
-
-			<h3> Pierce </h3>
+<div id="biggercont">
+		<div className = "name">
+			<a href = "https://github.com/Isa-Jer-Li"> <img className = "isabelle" src = {isabelle} /> </a>
 
 			<h3> Isabelle </h3>
 
